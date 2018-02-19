@@ -9,3 +9,4 @@ make nyquist/rev1:scotu
 ## flash
 
 make nyquist/rev1:scotu:avrdude
+
